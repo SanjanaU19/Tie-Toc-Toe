@@ -1,1 +1,1 @@
-# Tie-Toc-Toe
+This is a simple Tic Tac Toe game built using HTML, CSS, and JavaScript. It is a two-player game where Player X and Player O take turns marking spaces in a 3x3 grid. The first player to align three marks in a row (horizontally, vertically, or diagonally) wins.
